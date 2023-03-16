@@ -1,0 +1,26 @@
+# # Imports the Google Cloud client library
+
+# from google.cloud import storage
+
+
+# project_id = "qwiklabs-gcp-04-46bcc0026893"
+
+
+# bucket_name = "qwiklabs-gcp-04-46bcc0026893a"
+
+# client = storage.Client(project=project_id)
+
+# bucket = client.create_bucket(bucket_name)
+
+# # client = storage.Client()
+# # bucket = client.bucket('mybucket')
+# # bucket.location = 'eu'
+# # bucket.create()
+
+# Imports the Google Cloud client library
+
+
+# Instantiates a client
+
+
+# The name for the new bucket
